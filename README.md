@@ -4,6 +4,7 @@
 
 This project is an end-to-end E-Commerce Analytics solution built using **PostgreSQL** and **Power BI**. The objective is to transform raw e-commerce transactional data into actionable business insights that support strategic decision-making.
 
+⚠️The dataset exceed 25mb. Here is the link for the dataset. One can download from here:
 ## Dataset: https://www.kaggle.com/datasets/bimleshkumarsah/olist-store-dataset
 
 Using the **Olist Brazilian E-Commerce Dataset**, the project covers the complete analytics workflow including:
